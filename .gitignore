@@ -1,0 +1,7 @@
+.*.swp
+.*.swo
+*~
+
+Manifest.toml
+docs/Manifest.toml
+.CondaPkg
